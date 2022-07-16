@@ -1,0 +1,12 @@
+body {
+    /* background-position: center; */
+    background-size: cover;
+}
+
+.anchor {
+    width: 230px;
+    background-color: white;
+    color: black;
+    margin-top: 40px;
+    border-radius: 20px;
+}

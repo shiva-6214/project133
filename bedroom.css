@@ -1,0 +1,37 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+#heading1 {
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+}
+
+#btnStart {
+    font-size: 22px;
+}
+
+#objectDetectedNumber {
+    font-size: 19px;
+}
+
+#statusOfObject {
+    font-size: 19px;
+}
+
+#footerDiv {
+    position: fixed;
+    background-color: white;
+    color: black;
+    bottom: 0;
+    width: 100%;
+}
+
+canvas {
+    border: white 2px solid;
+    border-radius: 7px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
